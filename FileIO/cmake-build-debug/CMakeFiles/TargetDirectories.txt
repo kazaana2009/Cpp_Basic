@@ -1,3 +1,0 @@
-/Users/jaehyakchoi/CLionProjects/FileIO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/jaehyakchoi/CLionProjects/FileIO/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jaehyakchoi/CLionProjects/FileIO/cmake-build-debug/CMakeFiles/FileIO.dir
